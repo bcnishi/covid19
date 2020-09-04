@@ -1,3 +1,3 @@
 # COVID-19
 
-Simple Graphs and Stistics from Johns Hopkins University data repository
+Simple Graphs and Statistics from Johns Hopkins University data repository
